@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)](https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif)
+[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600,h_240/https://getonstream.com/wp-content/uploads/2022/09/image1.gif))]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_600,h_240/https://getonstream.com/wp-content/uploads/2022/09/image1.gif))
 
 <h1 align="center">Hi 👋, I'm Obidy Hasan Naim</h1>
 <h3 align="center">Passionate about Mobile App Development</h3>
