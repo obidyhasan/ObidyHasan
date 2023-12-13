@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Obidy Hasan Naim</h1>
 <h3 align="center">Passionate about Mobile App Development</h3>
