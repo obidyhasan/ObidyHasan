@@ -1,4 +1,4 @@
-<img src="./images/cover.jpg" alt="cover photo">
+<img src="./images/cover-github.jpg" alt="cover photo">
 
 <h1 align="center">Hi 👋, I'm Obidy Hasan Naim</h1>
 <h3 align="center">Passionate about Mobile App Development</h3>
