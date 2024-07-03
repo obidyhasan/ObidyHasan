@@ -1,4 +1,4 @@
-[![MasterHead](https://getonstream.com/wp-content/uploads/2022/09/image1.gif)](https://getonstream.com/wp-content/uploads/2022/09/image1.gif)
+<img src="./images/cover.jpg" alt="cover photo">
 
 <h1 align="center">Hi 👋, I'm Obidy Hasan Naim</h1>
 <h3 align="center">Passionate about Mobile App Development</h3>
