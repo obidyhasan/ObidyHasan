@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🖥️  See my portfolio at <a link="https://obidy-hasan.web.app/">obidyhasan</a><br>📚 I'm currently learning <b>Backend Development</b><br>💬 Ask me about React, Javascript, Frontend Technologies<br>🤝  I'm open to collaborating on interesting projects as a developer.<br>📫 How to reach me <a link="">obidyhasan@gmail.com</a></p>
+<p align="left">🖥️  See my portfolio at <a href="https://obidy-hasan.web.app/">obidyhasan</a><br>📚 I'm currently learning <b>Backend Development</b><br>💬 Ask me about React, Javascript, Frontend Technologies<br>🤝  I'm open to collaborating on interesting projects as a developer.<br>📫 How to reach me <a href="">obidyhasan@gmail.com</a></p>
 
 ###
 
@@ -61,10 +61,10 @@
 ###
 
 <div align="left">
-  <a link="www.linkedin.com/in/obidyhasan"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a link=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <a link="https://www.facebook.com/obidyhasan"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
-  <a link=""> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a href="www.linkedin.com/in/obidyhasan"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="https://www.facebook.com/obidyhasan"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href=""> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
 </div>
 
 ###
