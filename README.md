@@ -2,6 +2,18 @@
   <img src="./images/github-cover-1.png"  />
 </div>
 
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<h1 align="left">Hey 👋, I'm Obidy Hasan</h1>
+
+###
+
+<p align="left">My goal is to write maintainable, clean, and understandable code to process development was enjoyable.</p>
+
 ###
 
 <h2 align="left">About me</h2>
