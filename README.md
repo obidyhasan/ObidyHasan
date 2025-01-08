@@ -2,10 +2,6 @@
   <img src="./images/github-cover-1.png"  />
 </div>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
 ###
 
 <h1 align="left">Hey 👋, I'm Obidy Hasan</h1>
