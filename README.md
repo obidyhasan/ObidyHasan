@@ -64,6 +64,18 @@
 
 ###
 
+<h2 align="left">GitHub Streak Stats</h2>
+
+###
+
+<div align="center">
+ <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak">
+</a>
+</div>
+
+###
+
 <h2 align="left">Connect With Me</h2>
 
 ###
@@ -73,18 +85,6 @@
   <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
   <a href="https://www.facebook.com/obidyhasan"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
   <a href=""> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-</div>
-
-###
-
-<h2 align="left">GitHub Streak Stats</h2>
-
-###
-
-<div align="center">
- <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak">
-</a>
 </div>
 
 ###
