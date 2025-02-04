@@ -77,6 +77,10 @@
 
 ###
 
+<h2 align="left">GitHub Streak Stats</h2>
+
+###
+
 <div align="center">
  <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak">
