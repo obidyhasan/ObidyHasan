@@ -68,7 +68,7 @@
 
 ###
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&card_width=280&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak">
 </a>
