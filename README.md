@@ -76,8 +76,8 @@
     <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak">
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak">
-  </a>
+  <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&card_width=300&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak">
+</a>
 </div>
 
 
