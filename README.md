@@ -78,7 +78,9 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=obidyhasan)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan" alt="GitHub Streak">
+</a>
 </div>
 
 ###
