@@ -92,3 +92,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/obidyhasan/obidyhasan/output/snake.svg" alt="Snake animation" />
+
+###
