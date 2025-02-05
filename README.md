@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hi, I’m Obidy Hasan, a passionate front-end developer creating dynamic, responsive, visually appealing web applications. My expertise lies in technologies like React, Tailwind CSS, and JavaScript. I thrive on solving challenging problems and delivering seamless user experiences.</p>
+<p align="left">Hi, I’m Obidy Hasan, a MERN stack developer with a strong focus on front-end development, creating dynamic, responsive, and visually appealing web applications. My expertise lies in technologies like React, Tailwind CSS, and JavaScript. I thrive on solving challenging problems and delivering seamless user experiences.</p>
 
 ###
 
