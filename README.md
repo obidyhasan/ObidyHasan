@@ -71,15 +71,10 @@
 
 ###
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&card_width=250&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak">
-</a>
-  <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&card_width=250&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak">
-</a>
-  <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&card_width=250&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak">
+<div align="left">
+  
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=obidyhasan&theme=highcontrast&hide_border=true&card_width=1024" alt="GitHub Streak">
 </a>
 </div>
 
@@ -92,9 +87,8 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/obidyhasan/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <a href="https://www.facebook.com/obidyhasan"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
-  <a href=""> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a href="https://discordapp.com/users/1161378629146640455"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+
 </div>
 
 ###
