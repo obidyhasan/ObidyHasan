@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/MERN-cover.png"  />
+  <img src="./images/cover-2.0.png"  />
 </div>
 
 ###
