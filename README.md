@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hi, I’m Obidy Hasan, a passionate Full-Stack MERN Developer. I specialize in building scalable, efficient, and user-friendly web applications by combining strong front-end design with powerful back-end functionality.<br/>On the front end, I craft responsive and engaging interfaces using React, Tailwind CSS, and JavaScript, while on the back end, I develop robust APIs and business logic with Node.js, Express.js, and MongoDB.<br/>I enjoy solving complex problems, optimizing performance, and turning ideas into practical solutions. My goal is to deliver clean, maintainable code and seamless digital experiences that have a lasting impact.</p>
+<p align="left">Hi, I’m Obidy Hasan, a passionate Full-Stack MERN Developer. I specialize in building scalable, efficient, and user-friendly web applications by combining strong front-end design with powerful back-end functionality. On the front end, I craft responsive and engaging interfaces using React, Tailwind CSS, and JavaScript, while on the back end, I develop robust APIs and business logic with Node.js, Express.js, and MongoDB. I enjoy solving complex problems, optimizing performance, and turning ideas into practical solutions. My goal is to deliver clean, maintainable code and seamless digital experiences that have a lasting impact.</p>
 
 ###
 
