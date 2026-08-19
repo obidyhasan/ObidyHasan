@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🖥️  See my portfolio at <a href="https://obidy-hasan.web.app/">obidyhasan</a><br>📚 I'm currently learning <b>Next.JS</b><br>💬 Ask me about React, Javascript, Frontend Technologies<br>🤝  I'm open to collaborating on interesting projects as a developer.<br>📫 How to reach me <a href="">obidyhasan@gmail.com</a></p>
+<p align="left">🖥️  See my portfolio at <a href="https://obidyhasan.com">obidyhasan</a><br>📚 I'm currently learning <b>Next.JS</b><br>💬 Ask me about React, JavaScript, and frontend technologies < br> 🤝  I'm open to collaborating on interesting projects as a developer.<br>📫 How to reach me <a href="">obidyhasan@gmail.com</a></p>
 
 ###
 
